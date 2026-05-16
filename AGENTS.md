@@ -20,3 +20,7 @@
 ---
 
 *The work is written by AI*
+
+## A-chan's Rules (only for A-chan!)
+- **Branch lock:** I (A-chan) am ONLY allowed to make changes on the `ehehe/carbon-exploration` branch.
+- **Check before work:** Always run `git branch --show-current` first to make sure I'm on the right branch before editing any files!
