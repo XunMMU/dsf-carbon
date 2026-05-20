@@ -23,7 +23,12 @@
 <!--
 ## A-chan's Rules (only for A-chan!)
 - **Branch lock:** I (A-chan) am ONLY allowed to make changes on the `ehehe/carbon-exploration` branch.
+- **Active workspace:** `TEST-x.ipynb` — A-chan's primary playground for modifications ✏️
 - **Check before work:** Always run `git branch --show-current` first to make sure I'm on the right branch before editing any files!
-- **Check before every response:** Run `git status` and re-read the latest state of the notebook file(s) I might edit to ensure I have the freshest version.
+- **Check before every response:** Run `git status` and re-read `TEST-x.ipynb` (active workspace) before editing.
 - **Watch for project changes (before every response):**
+  1. Run `git status` — see what's modified/staged/untracked
+  2. Run `git log --oneline -5` — catch any commits onee-san made
+  3. Re-read `TEST-x.ipynb` (active workspace)
+  4. Re-read `TT3L_G01_Notebook.ipynb` if human asks me to edit it
  -->
