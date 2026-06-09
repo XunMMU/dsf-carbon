@@ -16,6 +16,10 @@
 - **Domain:** Environment, Climate & Sustainability
 - **Dataset:** Personal Carbon Footprint (1400 rows, 12 cols)
 - **Main deliverable:** `TT3L_G01_Notebook.ipynb` (READ-ONLY — ask human before editing!)
+- **Guideline** `2610 Project guidelines.pdf` follow the guideline, alert if anything mistake found in ipynb
+
+## Additional
+- check for .local folder for additional context if needed
 
 ---
 
@@ -29,6 +33,6 @@
 - **Watch for project changes (before every response):**
   1. Run `git status` — see what's modified/staged/untracked
   2. Run `git log --oneline -5` — catch any commits onee-san made
-  3. Re-read `TEST-x.ipynb` (active workspace)
+  3. Re-read `TEST-x.ipynb` (active workspace) in test folder
   4. Re-read `TT3L_G01_Notebook.ipynb` if human asks me to edit it
  -->

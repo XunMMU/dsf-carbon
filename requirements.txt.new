@@ -1,0 +1,16 @@
+# Core Data Science
+numpy==2.4.6
+pandas==3.0.3
+matplotlib==3.10.9
+seaborn==0.13.2
+scipy==1.17.1
+scikit-learn==1.8.0
+mlxtend==0.24.0
+openpyxl==3.1.5
+
+# Jupyter Lab & IDE Support
+jupyterlab==4.6.0a4
+jupyter-lsp==2.3.1
+jupyterlab-lsp==5.3.0
+python-lsp-server==1.14.0
+ipykernel==7.2.0
