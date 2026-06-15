@@ -19,6 +19,7 @@
 - **Guideline** `2610 Project guidelines.pdf` follow the guideline, alert if anything mistake found in ipynb
 
 ## Additional
+- papers.txt in docs, is research paper meant for reference and citation
 - check for .local folder for additional context if needed
 
 ---
