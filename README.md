@@ -18,6 +18,15 @@ pip install -r requirements.txt
 
 Place `personal_carbon_footprint_behavior.csv` in the project root and run the notebook sequentially.
 
+## Analysis Outline
+
+| Question | Technique | Status |
+|----------|-----------|--------|
+| Q1: Which factors affect carbon most? | Correlation (Pearson heatmap) | ✅ Done |
+| Q2: Can we predict carbon from habits? | Linear Regression + Decision Tree | ✅ Done |
+| Q3: Do people cluster by carbon profile? | K-Means + Association Rule Mining | ⚠️ K-Means ✅, ARM pending |
+| Q4: Can we classify impact level? | Logistic Regression, DT, Random Forest | ✅ Done |
+
 ## Deliverables
 
 - `TT3L_G01_Notebook.ipynb` — Main analysis notebook

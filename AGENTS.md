@@ -18,7 +18,14 @@
 - **Main deliverable:** `TT3L_G01_Notebook.ipynb` (READ-ONLY — ask human before editing!)
 - **Guideline** `2610 Project guidelines.pdf` follow the guideline, alert if anything mistake found in ipynb
 
+## Analysis Techniques Used
+- **Q1:** Correlation analysis (Pearson heatmap)
+- **Q2:** Linear Regression + Decision Tree Regressor (with depth tuning)
+- **Q3 (TEST-x):** K-Means clustering + Association Rule Mining (planned)
+- **Q4:** Logistic Regression, Decision Tree, Random Forest (classification)
+
 ## Additional
+- papers.txt in docs, is research paper meant for reference and citation
 - check for .local folder for additional context if needed
 
 ---
@@ -35,4 +42,5 @@
   2. Run `git log --oneline -5` — catch any commits onee-san made
   3. Re-read `TEST-x.ipynb` (active workspace) in test folder
   4. Re-read `TT3L_G01_Notebook.ipynb` if human asks me to edit it
- -->
+- **State:** K-Means ✅ implemented in TEST-x. ARM pending. TT3L §6.1–6.3 ✅, §8–10 empty.
+-->
